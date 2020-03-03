@@ -1,0 +1,57 @@
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+F:\Aecademic\2.2\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+J:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+J:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+J:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+J:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+F:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+F:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+F:\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+F:\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\Mouri\Desktop\C# Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+C:\Users\Apollo\Desktop\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+C:\Users\Apollo\Desktop\Today\badsha\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Apollo\Desktop\Today\badsha\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Apollo\Desktop\Today\badsha\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+G:\2nd year 2nd semester\C#  mehidi sir\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
